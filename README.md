@@ -19,11 +19,7 @@ Navigated to the Data storage section of the Azure Portal to create a managed fi
 
 [Figure 2: Creating and managing the enterprise file share.](file-share-setup.png)
 
-3. **Data Security & Access Control**
-Managed storage access through secure Access Keys and prepared for lifecycle management policies to automate data transitions.
 
-
-[Figure 3: Implementing security controls and access management](access)
 - 
 ## Key Skills Demonstrated
 **Redundancy Strategy:** Expert knowledge of **LRS, ZRS, and GRS** models and their application in enterprise disaster recovery.
