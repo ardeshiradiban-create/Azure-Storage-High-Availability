@@ -11,15 +11,13 @@ As an **IT & Project Coordinator** at **Greenwall Companies**, I designed this p
 I initialized the storage infrastructure by selecting the GRS model. This ensures that data is replicated to a secondary geographic region, a critical skill for the AZ-104 (Microsoft Azure Administrator) certification.
 
 
-[Figure 1: Configuration of GRS Redundancy in the Azure Portal.]
-(storage-redundancy.png)
+[Figure 1: Configuration of GRS Redundancy in the Azure Portal.] [Successful Association](4-successful-association.png)
 
 2. **Configuring Azure File Shares**
 Navigated to the Data storage section of the Azure Portal to create a managed file share. This provides a cross-platform accessible storage solution using the SMB protocol.
 
 
-[Figure 2: Creating and managing the enterprise file share.]
-(file-share-setup.png)
+[Figure 2: Creating and managing the enterprise file share.] [Successful Association](file-share-setup.png)
 
 
 - 
